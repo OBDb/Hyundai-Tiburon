@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Hyundai_Tiburon"
+
+generations:
+  - name: "First Generation (RD)"
+    start_year: 1996
+    end_year: 2001
+    description: "A front-wheel-drive coupe with 1.8 L and 2.0 L Beta engines."
+  - name: "Second Generation (GK)"
+    start_year: 2002
+    end_year: 2008
+    description: "With the 2.0 L Beta and the 2.7 L Delta V6."
